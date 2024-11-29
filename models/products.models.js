@@ -7,7 +7,7 @@ const ProductSchema=mongoose.Schema({
 
     quantity:{
         type:Number,
-        required:true,
+        required:[true,"Please enter quantity of the product"],
         default:0,
         set:value=>Math.floor(value)
     },
