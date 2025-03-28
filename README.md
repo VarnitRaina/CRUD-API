@@ -1,4 +1,3 @@
-Here’s a more detailed **Installation & Setup** guide with step-by-step **Command Line Instructions (CLI)** for your CRUD API project.
 
 ---
 
@@ -53,4 +52,3 @@ curl -X GET http://localhost:5000/products
 
 ---
 
-This guide ensures a smooth setup process. Let me know if you need modifications! 🚀
